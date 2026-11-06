@@ -359,7 +359,7 @@
    "media": [
     {
      "file": "d2a.jpg",
-     "sha256": "43a3c956fe661619c97bbca7946b80ad4aa994f4a6f8e63f72b8516e1baefb08"
+     "sha256": "a9e64b15e076adb7cc2415ae578b440e268d985aa5fd71415ec1300d2fe24a31"
     }
    ],
    "cover": null,
@@ -393,7 +393,7 @@
    "media": [
     {
      "file": "d2b.jpg",
-     "sha256": "f077cdda65ff05353f661ad069a8fcc5301023aaf167e4735c9d806f06d2bbd6"
+     "sha256": "43874ad06d37596ef735ad7ad555a223f60f21e1ebce926c2ad3811265e11941"
     }
    ],
    "cover": null,
@@ -427,7 +427,7 @@
    "media": [
     {
      "file": "d2c.jpg",
-     "sha256": "84d557ae97f262fc69a23afc861b4225f4c8602704d53c1691ee93f325d54cc0"
+     "sha256": "30fd1dbad227250f0ec1484fa37c4a4a25455a01c2bd4e4636453629b42b4249"
     }
    ],
    "cover": null,
@@ -444,12 +444,12 @@
    "media": [
     {
      "file": "rd1-damac.mp4",
-     "sha256": "e69619ad07604464628ab3c80a9555a5b79ce1f1e54c2a6c53a0148424eb3af3"
+     "sha256": "71cee709bee7797cd797f5d266615fa822180147a22025abdc8bb49135925e5b"
     }
    ],
    "cover": {
     "file": "rd1-damac-cover.jpg",
-    "sha256": "89a02e74db3071d423c997bc6536ff1d1fbf5dd651bf27e8ccc5d7643c7a5a9d"
+    "sha256": "be8b9519123adc568ff4c29885dee9191126fef1d275038cd5b9088ca06df677"
    },
    "caption": "داماك هيلز بغداد.\nالشاطئ، والفلل، والموقع على طريق المطار.\n\nيوم الحجز السبت 7 نوفمبر، من 12 ظهراً حتى 7 مساءً، في مركز المبيعات داخل المشروع.\nالتسجيل عبر الرابط في البايو.\n\n#داماك_هيلز_بغداد #فلل_بغداد #عقارات_بغداد",
    "caption_sha256": "376c576f6ab4cf8d3370d06a63be591a0819e3c1ff3c79a284524a9bb24ed457",
@@ -465,7 +465,7 @@
    "media": [
     {
      "file": "sd3.jpg",
-     "sha256": "864c7db5deb1bde41affff02cad07d97d1897f5ed8d9cb96c9a674df23fc9beb"
+     "sha256": "5b9e6251365bf92f612d278d213cb506cc6fc5974e97b10c2a2a64df4b6e28bf"
     }
    ],
    "cover": null,
@@ -482,7 +482,7 @@
    "media": [
     {
      "file": "sd4.jpg",
-     "sha256": "7b9f98e92038defcba9bb05f2c359ca3c7c7234c95e08e0793e6609c4ce983c9"
+     "sha256": "77be135b5b979cd1764951ea6ee8b649ef47ab3115130d21e2bc6b5d1a05f510"
     }
    ],
    "cover": null,
@@ -499,7 +499,7 @@
    "media": [
     {
      "file": "sd5.jpg",
-     "sha256": "8a46a1ced8d9a8516303c2aaf819406d29ba6592b8bc8defed893d3681be1fe9"
+     "sha256": "84f405862f1f6caa3fce4bc5da7dbebfb015ebe4257e350eeda0d85853904656"
     }
    ],
    "cover": null,
@@ -516,7 +516,7 @@
    "media": [
     {
      "file": "sd6.jpg",
-     "sha256": "bad9808b413e89fac4be3f01eb6a7570216aa68a933c9ddfd19d6121ce0f0f65"
+     "sha256": "3f12cf2af58a291e3638e3bbefb948fea106dc585276a17d98d7d0d00d399945"
     }
    ],
    "cover": null,
@@ -834,7 +834,7 @@
    "media": [
     {
      "file": "d1a2.jpg",
-     "sha256": "33be44de0c21fc6696513f5fac0f4ed4e8760035b94df254d0daa3732a779e8b"
+     "sha256": "3b2119ab35c68469a734f10745349882e6df7fd957f35e69620a0961f4a492bc"
     }
    ],
    "cover": null,
@@ -851,7 +851,7 @@
    "media": [
     {
      "file": "d1b2.jpg",
-     "sha256": "5ccd933c8e6ab8cff00b790de7e867e7eade94292369dc9b2ee2668467729caf"
+     "sha256": "ebdf919e220b9373dbea1ddb0ca5cf6d0f6c7185b4f7e8c3bf59db464c5acce3"
     }
    ],
    "cover": null,
@@ -868,7 +868,7 @@
    "media": [
     {
      "file": "d1c2.jpg",
-     "sha256": "b40221d7ae5d417e3555026ec9f80efb065c19bc462bbad108473e2324a6b27c"
+     "sha256": "08042e5f6e93c0e443858c9e9debe840cd781346a53bd8c2f0b246d4a9088e04"
     }
    ],
    "cover": null,
@@ -885,7 +885,7 @@
    "media": [
     {
      "file": "sd0b.jpg",
-     "sha256": "51ff0f4c683e45d77ef9eb2a519bd9338ea09cb2eb81cc51853a1e779aa71a04"
+     "sha256": "c2d5ea1b1a62da7d590403c975a1689418a4c0893b62f9578c1ad9d6b4c292e5"
     }
    ],
    "cover": null,
